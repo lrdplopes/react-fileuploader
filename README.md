@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="./client/src/img/logo_uploadfiles.png">
+    <img src="./img/logo_uploadfiles.png">
 </h1>
 
 ---
@@ -23,10 +23,10 @@ Just a React File Upload.
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/lrdplopes/breakingbadAPI
+    $ git clone https://github.com/lrdplopes/react-fileuploader
 
     #Acessar o repositório
-    $ cd breakingbadAPI
+    $ cd react-fileuploader
 
     #Instalar suas dependências
     $yarn install
